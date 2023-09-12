@@ -7,16 +7,16 @@
 <link rel='dns-prefetch' href='https://s.w.org/' />
 <link rel='dns-prefetch' href='https://v0.wordpress.com/' />
 <link rel='dns-prefetch' href='https://i0.wp.com/' />
-<script type='text/javascript' src='https://dimequesi.fr/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
-<script type='text/javascript' src='https://dimequesi.fr/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
-<script type='text/javascript' src='https://dimequesi.fr/wp-content/plugins/wp-simple-booking-calendar/js/sbc.js?ver=6.0.3' id='sbc-js'></script>
+<script type='text/javascript' src='https://bachataclubstrasbourg.fr/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://bachataclubstrasbourg.fr/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://bachataclubstrasbourg.fr/wp-content/plugins/wp-simple-booking-calendar/js/sbc.js?ver=6.0.3' id='sbc-js'></script>
 <script type='text/javascript' src='wp-content/plugins/jetpack/modules/sso/jetpack-sso-login.js?ver=11.2' id='jetpack-sso-login-js'></script>
-<link rel='stylesheet' id='sbc-css'  href='https://dimequesi.fr/wp-content/plugins/wp-simple-booking-calendar/css/sbc.css?ver=6.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='sbc-css'  href='https://bachataclubstrasbourg.fr/wp-content/plugins/wp-simple-booking-calendar/css/sbc.css?ver=6.0.3' type='text/css' media='all' />
 <link rel='stylesheet' id='dashicons-css'  href='wp-includes/css/dashicons.min.css?ver=6.0.3' type='text/css' media='all' />
 <link rel='stylesheet' id='buttons-css'  href='wp-includes/css/buttons.min.css?ver=6.0.3' type='text/css' media='all' />
-<link rel='stylesheet' id='forms-css'  href='https://dimequesi.fr/wp-admin/css/forms.min.css?ver=6.0.3' type='text/css' media='all' />
-<link rel='stylesheet' id='l10n-css'  href='https://dimequesi.fr/wp-admin/css/l10n.min.css?ver=6.0.3' type='text/css' media='all' />
-<link rel='stylesheet' id='login-css'  href='https://dimequesi.fr/wp-admin/css/login.min.css?ver=6.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='forms-css'  href='https://bachataclubstrasbourg.fr/wp-admin/css/forms.min.css?ver=6.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='l10n-css'  href='https://bachataclubstrasbourg.fr/wp-admin/css/l10n.min.css?ver=6.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='login-css'  href='https://bachataclubstrasbourg.fr/wp-admin/css/login.min.css?ver=6.0.3' type='text/css' media='all' />
 <link rel='stylesheet' id='genericons-css'  href='wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css?ver=3.1' type='text/css' media='all' />
 <link rel='stylesheet' id='jetpack-sso-login-css'  href='wp-content/plugins/jetpack/modules/sso/jetpack-sso-login.css?ver=11.2' type='text/css' media='all' />
 			<style>
@@ -31,10 +31,10 @@
 			</style>
 			<meta name='referrer' content='strict-origin-when-cross-origin' />
 		<meta name="viewport" content="width=device-width" />
-	<link rel="icon" href="https://i0.wp.com/dimequesi.fr/wp-content/uploads/2018/03/cropped-Logo-Dime-Que-Si-Metal-Rose.png?fit=32%2C32&#038;ssl=1" sizes="32x32" />
-<link rel="icon" href="https://i0.wp.com/dimequesi.fr/wp-content/uploads/2018/03/cropped-Logo-Dime-Que-Si-Metal-Rose.png?fit=192%2C192&#038;ssl=1" sizes="192x192" />
-<link rel="apple-touch-icon" href="https://i0.wp.com/dimequesi.fr/wp-content/uploads/2018/03/cropped-Logo-Dime-Que-Si-Metal-Rose.png?fit=180%2C180&#038;ssl=1" />
-<meta name="msapplication-TileImage" content="https://i0.wp.com/dimequesi.fr/wp-content/uploads/2018/03/cropped-Logo-Dime-Que-Si-Metal-Rose.png?fit=270%2C270&#038;ssl=1" />
+	<link rel="icon" href="https://i0.wp.com/bachataclubstrasbourg.fr/wp-content/uploads/2018/03/cropped-Logo-Dime-Que-Si-Metal-Rose.png?fit=32%2C32&#038;ssl=1" sizes="32x32" />
+<link rel="icon" href="https://i0.wp.com/bachataclubstrasbourg.fr/wp-content/uploads/2018/03/cropped-Logo-Dime-Que-Si-Metal-Rose.png?fit=192%2C192&#038;ssl=1" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://i0.wp.com/bachataclubstrasbourg.fr/wp-content/uploads/2018/03/cropped-Logo-Dime-Que-Si-Metal-Rose.png?fit=180%2C180&#038;ssl=1" />
+<meta name="msapplication-TileImage" content="https://i0.wp.com/bachataclubstrasbourg.fr/wp-content/uploads/2018/03/cropped-Logo-Dime-Que-Si-Metal-Rose.png?fit=270%2C270&#038;ssl=1" />
 	</head>
 	<body class="login no-js login-action-login wp-core-ui  locale-fr-fr jetpack-sso jetpack-sso-form-display">
 	<script type="text/javascript">
@@ -89,7 +89,7 @@
 					<p class="forgetmenot"><input name="rememberme" type="checkbox" id="rememberme" value="forever"  /> <label for="rememberme">Se souvenir de moi</label></p>
 			<p class="submit">
 				<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary button-large" value="Se connecter" />
-									<input type="hidden" name="redirect_to" value="https://dimequesi.fr/wp-admin/" />
+									<input type="hidden" name="redirect_to" value="https://bachataclubstrasbourg.fr/wp-admin/" />
 									<input type="hidden" name="testcookie" value="1" />
 			</p>
 		</form>
@@ -141,10 +141,10 @@ if ( typeof wpOnload === 'function' ) { wpOnload() }		</script>
 
 					</form>
 				</div>
-				<link rel='stylesheet' id='jetpack_css-css'  href='https://dimequesi.fr/wp-content/plugins/jetpack/css/jetpack.css?ver=11.2' type='text/css' media='all' />
+				<link rel='stylesheet' id='jetpack_css-css'  href='https://bachataclubstrasbourg.fr/wp-content/plugins/jetpack/css/jetpack.css?ver=11.2' type='text/css' media='all' />
 <script type='text/javascript' id='zxcvbn-async-js-extra'>
 /* <![CDATA[ */
-var _zxcvbnSettings = {"src":"https:\/\/dimequesi.fr\/wp-includes\/js\/zxcvbn.min.js"};
+var _zxcvbnSettings = {"src":"https:\/\/bachataclubstrasbourg.fr\/wp-includes\/js\/zxcvbn.min.js"};
 /* ]]> */
 </script>
 <script type='text/javascript' src='wp-includes/js/zxcvbn-async.min.js?ver=1.0' id='zxcvbn-async-js'></script>
@@ -167,7 +167,7 @@ var pwsL10n = {"unknown":"Force du mot de passe inconnue.","short":"Tr\u00e8s fa
 	wp.i18n.setLocaleData( localeData, domain );
 } )( "default", {"translation-revision-date":"2022-03-06 22:38:16+0000","generator":"GlotPress\/4.0.0-alpha.4","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n > 1;","lang":"fr"},"%1$s is deprecated since version %2$s! Use %3$s instead. Please consider writing more inclusive code.":["%1$s est obsol\u00e8te depuis la version %2$s\u00a0! Utilisez %3$s \u00e0 la place. Pensons \u00e0 \u00e9crire du code plus inclusif."]}},"comment":{"reference":"wp-admin\/js\/password-strength-meter.js"}} );
 </script>
-<script type='text/javascript' src='https://dimequesi.fr/wp-admin/js/password-strength-meter.min.js?ver=6.0.3' id='password-strength-meter-js'></script>
+<script type='text/javascript' src='https://bachataclubstrasbourg.fr/wp-admin/js/password-strength-meter.min.js?ver=6.0.3' id='password-strength-meter-js'></script>
 <script type='text/javascript' src='wp-includes/js/underscore.min.js?ver=1.13.3' id='underscore-js'></script>
 <script type='text/javascript' id='wp-util-js-extra'>
 /* <![CDATA[ */
@@ -187,7 +187,7 @@ var userProfileL10n = {"user_id":"0","nonce":"50b3dcee4f"};
 	wp.i18n.setLocaleData( localeData, domain );
 } )( "default", {"translation-revision-date":"2022-03-06 22:38:16+0000","generator":"GlotPress\/4.0.0-alpha.4","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n > 1;","lang":"fr"},"Your new password has not been saved.":["Votre nouveau mot de passe n\u2019a pas \u00e9t\u00e9 enregistr\u00e9."],"Hide":["Masquer"],"Show":["Afficher"],"Show password":["Afficher le mot de passe"],"Confirm use of weak password":["Confirmer l\u2019utilisation du mot de passe faible"],"Hide password":["Cacher le mot de passe"]}},"comment":{"reference":"wp-admin\/js\/user-profile.js"}} );
 </script>
-<script type='text/javascript' src='https://dimequesi.fr/wp-admin/js/user-profile.min.js?ver=6.0.3' id='user-profile-js'></script>
+<script type='text/javascript' src='https://bachataclubstrasbourg.fr/wp-admin/js/user-profile.min.js?ver=6.0.3' id='user-profile-js'></script>
 	<div class="clear"></div>
 	</body>
 	</html>

@@ -1,5 +1,5 @@
-Sitemap: https://dimequesi.fr/sitemap.xml
-Sitemap: https://dimequesi.fr/news-sitemap.xml
+Sitemap: https://bachataclubstrasbourg.fr/sitemap.xml
+Sitemap: https://bachataclubstrasbourg.fr/news-sitemap.xml
 User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
